@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" role="img" aria-labelledby="t d">
+<title id="t">NRPU mark</title><desc id="d">Open book, research node and national green color theme.</desc>
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#087a65"/><stop offset="1" stop-color="#136aa5"/></linearGradient></defs>
+<rect width="120" height="120" rx="28" fill="url(#g)"/>
+<path d="M27 35c17-3 27 2 33 12 6-10 16-15 33-12v48c-16-3-27 1-33 10-6-9-17-13-33-10V35Z" fill="#fff" opacity=".95"/>
+<path d="M60 47v46M37 48c10 0 17 3 23 10m23-10c-10 0-17 3-23 10" stroke="#087a65" stroke-width="4" stroke-linecap="round" fill="none"/>
+<circle cx="60" cy="28" r="8" fill="#fff"/><path d="M60 28 78 18M60 28 43 19" stroke="#fff" stroke-width="4" stroke-linecap="round"/>
+</svg>
